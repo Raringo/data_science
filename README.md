@@ -26,3 +26,8 @@ Highest number of accidents recorded at VMC weather conditions
 
 A-Z company should avoid purchasing Cessna,Boeing as indicated in the above findings
 Though not common,boeing accidents are more fatal than any other aircraft accident
+
+# Tableau Dashboard
+
+You can view the Tableau dashboard at the following link:
+[View the Dashboard](https://public.tableau.com/views/Project1_data_science)
