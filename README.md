@@ -35,7 +35,4 @@ Though not common,boeing accidents are more fatal than any other aircraft accide
 A-Z company may choose to use it's aircrafts in regions where less accidents are reported
 A-Z company can venture into new routes not dominated by major airlines
 
-# Tableau Dashboard
 
-You can view the Tableau dashboard at the following link:
-[View the Dashboard](https://public.tableau.com/views/Project1_data_science)
