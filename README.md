@@ -37,5 +37,5 @@ A-Z company can venture into new routes not dominated by major airlines
 
 # TABLEAU PUBLIC #
 Tableau Online URL
-https://public.tableau.com/app/profile/sylvanus.raringo/viz/Project1_data_science
+(https://public.tableau.com/app/profile/sylvanus.raringo/viz/Project1_data_science/MakeVsTotalmonorinjuries?publish=yes)
 
