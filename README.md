@@ -1,4 +1,4 @@
-#**Analysis of SyriaTel performance in the Telecommunication Industry**#
+**Analysis of SyriaTel performance in the Telecommunication Industry**
 
 #Business Understanding
 
