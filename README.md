@@ -1,41 +1,12 @@
-# A GUIDE INTO LOW RISK AIRCRAFTS FOR A-Z COMPANY
+Analysis of SyriaTel performance in the Telecommunication Industry
+Business Understanding
+The telecommunication industry is faced with one of the fiercest competitions globally. Customers are in need of the cheapest, reliable and safe communication platforms.This study focuses on SyriaTel, a telecommunications company in Syria.Among the challenges facing this company include;Intense Competition,Service Quality Issues (Network Coverage and Reliability),Economic and Political Instability, Changing Customer Expectations,Pricing and Plan Flexibility,Customer Satisfaction and Perception,Regulatory Environment (Government Regulations),Inability to Predict Churn Patterns (Data Analysis Challenges and Lack of Insight into Customer Behavior. This study attempts to guide the mangement of SyriaTel on what areas to improve on in order to bring the company back to profitability.
+Business Problem
 
-# OVERVIEW
+Syria Tel intends to turnaround their profitability. The management wants to esbablish roote causes of the challenges and how to address them. The business environment is competetive and the country is rocked with civil wars. The company is hopeful to navigate all these with a proper data analysis and recommendation. This study therefore focusses on customer behaviour with relation to the cost of call and messages, the duration of call and whether the costs should vary between days and nights.
+Data sources
 
-A-Z company is expanding in to new industries to diversify its portfolio.
-They are interested in purchasing and operating airplanes for commercial and private enterprises.
-This project aims at analysing the potential risks associated with aircrafts business.
+SyriaTel Customer Churn Provides detailed data on various aspects of analysis including; account length, area code,phone number, international plan, voice mail plan,number of vmail messages, total day minutes, total day calls, total day charge, total eve calls, total eve charge, total night minutes, total night calls, total night charge and so on.
+Objectives
 
-# BUSINESS UNDERSTANDING #
-The main objective (goal) of this project is to determine which aircrafts are the lowest risk for the company to venture into this new business.
-The lowest risks will be determined by among other factors;the least number of accidents and the durability of the aircrafts. 
-This will be guided by the engine types, the weather conditions and the countries the aircraft operates in
-The findings will give insights and guide the company and its shareholders(stakeholders) on which aircrafts to buy.
-
-# DATA UNDERSTANDING AND ANALYSYS
-## Import libraries
-## Loading dataset
-df1 = pd.read_csv('AviationData.csv', encoding='ISO-8859-1')
-df2 = pd.read_csv('USState_Codes.csv', encoding='ISO-8859-1')
-Display the content of df1
-print(df1)
-Data visualization
-
-# CONCLUSION
-From above:
-Boeing had the highest number of fatal injuries
-Cessna had the highest number of accidents
-The highest number of accidents were non fatal
-The number of accidents were fairly constant until 1980 when it sharply increased to 3500
-Highest number of accidents recorded at VMC weather conditions
-# RECOMMENDATIONS
-
-A-Z company should avoid purchasing Cessna, Boeing as indicated in the above findings
-Though not common,boeing accidents are more fatal than any other aircraft accident
-A-Z company may choose to use it's aircrafts in regions where less accidents are reported
-A-Z company can venture into new routes not dominated by major airlines
-
-# TABLEAU PUBLIC #
-Tableau Online URL
-(https://public.tableau.com/app/profile/sylvanus.raringo/viz/Project1_data_science/MakeVsTotalmonorinjuries?publish=yes)
-
+The objective of this study is to guide SyriaTel, based on analysis of the above data, how to respond to the changing market and political landscape in Syria.
